@@ -1,1 +1,1 @@
-# basic-html-skeleton
+# basics-of-HTML
